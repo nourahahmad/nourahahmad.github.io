@@ -33,7 +33,7 @@
       "additionalSetColors": []
     },
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
